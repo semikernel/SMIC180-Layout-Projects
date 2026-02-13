@@ -1,7 +1,7 @@
 <div align="center">
 
-# IC Layout Design Projects: Advanced Implementation
-### 基于 SMIC 0.18μm 工艺的数字-模拟混合信号版图设计实验
+# IC Layout Design Projects
+### 基于 SMIC 0.18μm 工艺的定制化模拟与标准单元版图设计实验
 
 [![Process](https://img.shields.io/badge/Process-SMIC%200.18μm-blue)](https://www.smics.com/)
 [![Tools](https://img.shields.io/badge/EDA-Cadence%20Virtuoso%20%7C%20Spectre%20%7C%20Calibre-orange)](https://www.cadence.com/)
